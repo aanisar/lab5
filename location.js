@@ -1,4 +1,5 @@
-    function initMap() {
+let map;    
+function initMap() {
           let cntower= {
               lat:43.642591,
               lng:-79.387238 
